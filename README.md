@@ -1,3 +1,2 @@
 # 2305quizzes
 
-QUIZ 2 IS ACTUALLY QUIZ 3
